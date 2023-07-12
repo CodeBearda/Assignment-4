@@ -1,0 +1,5 @@
+num = int(input("Enter number: "))
+
+result = lambda num: num + 25
+
+print(result(num))
